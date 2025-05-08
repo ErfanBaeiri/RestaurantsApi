@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|c:\\users\\tolu\\documents\\github\\celestialapi\\celestial.entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|solutionrelative:celestial.entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|c:\\users\\tolu\\documents\\github\\celestialapi\\celestial.entities\\post\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|solutionrelative:celestial.entities\\post\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|c:\\users\\tolu\\documents\\github\\celestialapi\\celestial.entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|solutionrelative:celestial.entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|c:\\users\\tolu\\documents\\github\\celestialapi\\celestial.entities\\post\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|solutionrelative:celestial.entities\\post\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|c:\\users\\tolu\\documents\\github\\celestialapi\\celestial.entities\\user\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA3DE7-1010-48B8-9E40-722A82C51585}|Celestial.Entities\\Celestial.Entities.csproj|solutionrelative:celestial.entities\\user\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\User\\User.cs",
+              "RelativeDocumentMoniker": "Celestial.Entities\\User\\User.cs",
+              "ToolTip": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\User\\User.cs",
+              "RelativeToolTip": "Celestial.Entities\\User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:33:31.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\User\\Role.cs",
+              "RelativeDocumentMoniker": "Celestial.Entities\\User\\Role.cs",
+              "ToolTip": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\User\\Role.cs",
+              "RelativeToolTip": "Celestial.Entities\\User\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:33:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Post\\Post.cs",
+              "RelativeDocumentMoniker": "Celestial.Entities\\Post\\Post.cs",
+              "ToolTip": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Post\\Post.cs",
+              "RelativeToolTip": "Celestial.Entities\\Post\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:33:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Post\\Category.cs",
+              "RelativeDocumentMoniker": "Celestial.Entities\\Post\\Category.cs",
+              "ToolTip": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Post\\Category.cs",
+              "RelativeToolTip": "Celestial.Entities\\Post\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:33:29.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Celestial.Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Celestial.Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:33:28.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

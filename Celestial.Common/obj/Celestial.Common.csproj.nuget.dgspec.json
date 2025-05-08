@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tolu\\Desktop\\Web API - Biyamoz\\01\\Celestial.Common\\Celestial.Common.csproj": {}
+    "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Common\\Celestial.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tolu\\Desktop\\Web API - Biyamoz\\01\\Celestial.Common\\Celestial.Common.csproj": {
+    "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Common\\Celestial.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tolu\\Desktop\\Web API - Biyamoz\\01\\Celestial.Common\\Celestial.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Common\\Celestial.Common.csproj",
         "projectName": "Celestial.Common",
-        "projectPath": "C:\\Users\\Tolu\\Desktop\\Web API - Biyamoz\\01\\Celestial.Common\\Celestial.Common.csproj",
+        "projectPath": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Common\\Celestial.Common.csproj",
         "packagesPath": "C:\\Users\\Tolu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tolu\\Desktop\\Web API - Biyamoz\\01\\Celestial.Common\\obj\\",
+        "outputPath": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Celestial.Services\Celestial.Services.csproj" />
-  </ItemGroup>
-
 </Project>

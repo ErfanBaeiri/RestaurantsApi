@@ -1,0 +1,12 @@
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\bin\Debug\net9.0\Celestial.Common.deps.json
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\bin\Debug\net9.0\Celestial.Common.dll
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\bin\Debug\net9.0\Celestial.Common.pdb
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.csproj.AssemblyReference.cache
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.AssemblyInfoInputs.cache
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.AssemblyInfo.cs
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.dll
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\refint\Celestial.Common.dll
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\Celestial.Common.pdb
+C:\Users\Tolu\Desktop\Celestial\Celestial.Common\obj\Debug\net9.0\ref\Celestial.Common.dll

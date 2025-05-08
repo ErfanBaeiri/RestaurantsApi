@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Pluralize.NET;
 using System.Reflection;
 using Humanizer;
 
@@ -14,7 +13,7 @@ namespace Common.Utilities
         /// <param name="modelBuilder"></param>
         public static void AddSingularizingTableNameConvention(this ModelBuilder modelBuilder)
         {
-            Pluralizer pluralizer = new Pluralizer();
+            //Pluralizer pluralizer = new Pluralizer();
             foreach (IMutableEntityType entityType in modelBuilder.Model.GetEntityTypes())
             {
                 entityType.SetTableName(entityType.ClrType.Name.Singularize());
@@ -31,7 +30,7 @@ namespace Common.Utilities
         /// <param name="modelBuilder"></param>
         public static void AddPluralizingTableNameConvention(this ModelBuilder modelBuilder)
         {
-            Pluralizer pluralizer = new Pluralizer();
+            //Pluralizer pluralizer = new Pluralizer();
             foreach (IMutableEntityType entityType in modelBuilder.Model.GetEntityTypes())
             {
                 entityType.SetTableName(entityType.ClrType.Name.Pluralize());
@@ -126,14 +125,3 @@ namespace Common.Utilities
         }
     }
 }
-
-
-// Example of usage in DbContext class
-//protected override void OnModelCreating(ModelBuilder modelBuilder)
-//{
-//    base.OnModelCreating(modelBuilder);
-
-//    modelBuilder.AddPluralizingTableNameConvention();
-
-//    // سایر تنظیمات مدل شما
-//}

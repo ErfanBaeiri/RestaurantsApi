@@ -1,4 +1,7 @@
 
+using Celestial.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Celestial.Api
 {
     public class Program
@@ -9,10 +12,16 @@ namespace Celestial.Api
 
             // Add services to the container.
 
+
+            // Add DbContext with SQL Server
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("CelestialDb")));
+
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
+            #region MiddleWare
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -29,6 +38,8 @@ namespace Celestial.Api
             app.MapControllers();
 
             app.Run();
+            #endregion
+
         }
     }
 }

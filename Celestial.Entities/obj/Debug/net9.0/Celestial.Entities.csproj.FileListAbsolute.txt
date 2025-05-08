@@ -1,0 +1,12 @@
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\bin\Debug\net9.0\Celestial.Entities.deps.json
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\bin\Debug\net9.0\Celestial.Entities.dll
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\bin\Debug\net9.0\Celestial.Entities.pdb
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.csproj.AssemblyReference.cache
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.AssemblyInfoInputs.cache
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.AssemblyInfo.cs
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.dll
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\refint\Celestial.Entities.dll
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\Celestial.Entities.pdb
+C:\Users\Tolu\Desktop\Celestial\Celestial.Entities\obj\Debug\net9.0\ref\Celestial.Entities.dll
