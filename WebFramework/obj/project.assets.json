@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tolu\\Desktop\\Celestial\\WebFramework\\WebFramework.csproj",
+      "projectUniqueName": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\WebFramework\\WebFramework.csproj",
       "projectName": "WebFramework",
-      "projectPath": "C:\\Users\\Tolu\\Desktop\\Celestial\\WebFramework\\WebFramework.csproj",
+      "projectPath": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\WebFramework\\WebFramework.csproj",
       "packagesPath": "C:\\Users\\Tolu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tolu\\Desktop\\Celestial\\WebFramework\\obj\\",
+      "outputPath": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\WebFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

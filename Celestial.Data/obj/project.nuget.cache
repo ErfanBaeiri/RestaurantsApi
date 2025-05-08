@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQ69AXwSimg=",
+  "dgSpecHash": "IGjLEfzYQC8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Data\\Celestial.Data.csproj",
+  "projectFilePath": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Data\\Celestial.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tolu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Tolu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

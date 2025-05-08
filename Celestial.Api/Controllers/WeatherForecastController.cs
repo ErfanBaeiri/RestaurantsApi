@@ -1,3 +1,5 @@
+using Celestial.Data.Repositories;
+using Celestial.Entities.Post;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Celestial.Api.Controllers;
@@ -6,27 +8,16 @@ namespace Celestial.Api.Controllers;
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
-    private static readonly string[] Summaries = new[]
-    {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
 
-    private readonly ILogger<WeatherForecastController> _logger;
-
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    #region Dependency Injection
+    public WeatherForecastController(UserRepository userRepository, Repository<Category> categoryRepository)
     {
-        _logger = logger;
+        this.userRepository = userRepository;
+        this.categoryRepository = categoryRepository;
     }
+    private readonly UserRepository userRepository;
+    private readonly Repository<Category> categoryRepository;
+    #endregion
 
-    [HttpGet(Name = "GetWeatherForecast")]
-    public IEnumerable<WeatherForecast> Get()
-    {
-        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        {
-            Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-        })
-        .ToArray();
-    }
+
 }

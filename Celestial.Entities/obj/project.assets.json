@@ -545,11 +545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Entities\\Celestial.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Celestial.Entities.csproj",
       "projectName": "Celestial.Entities",
-      "projectPath": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Entities\\Celestial.Entities.csproj",
+      "projectPath": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\Celestial.Entities.csproj",
       "packagesPath": "C:\\Users\\Tolu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tolu\\Desktop\\Celestial\\Celestial.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Tolu\\Documents\\GitHub\\CelestialApi\\Celestial.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

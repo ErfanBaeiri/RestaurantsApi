@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Celestial.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dafb31c602c5d2adf188b8ec3a6dc0a84714e24c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Celestial.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Celestial.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
