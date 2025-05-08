@@ -1,5 +1,7 @@
 
 using Celestial.Data;
+using Celestial.Data.Contracts;
+using Celestial.Data.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace Celestial.Api
@@ -9,9 +11,13 @@ namespace Celestial.Api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
             // Add services to the container.
 
+
+
+            // Register Dependency Injection
+            builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
 
             // Add DbContext with SQL Server
             builder.Services.AddDbContext<ApplicationDbContext>(options =>

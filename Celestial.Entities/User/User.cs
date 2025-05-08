@@ -27,15 +27,15 @@ namespace Celestial.Entities.User
         public bool IsActive { get; set; }
         public DateTimeOffset LastLoginDate { get; set; }
         // Foreign Key
-        public int RoleId { get; set; }
+        public int? RoleId { get; set; }
         #endregion
 
 
 
 
         #region Relation
-        public Role Role { get; set; }
-        public ICollection<Post.Post> Posts { get; set; }
+        public Role? Role { get; set; }
+        public ICollection<Post.Post>? Posts { get; set; }
         #endregion
     }
 

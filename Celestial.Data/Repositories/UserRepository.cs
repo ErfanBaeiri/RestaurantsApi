@@ -1,10 +1,11 @@
-﻿using Celestial.Entities.User;
+﻿using Celestial.Data.Contracts;
+using Celestial.Entities.User;
 using Common.Utilities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Celestial.Data.Repositories
 {
-    public class UserRepository : Repository<User>
+    public class UserRepository : Repository<User>, IUserRepository
     {
         public UserRepository(ApplicationDbContext dbContext) : base(dbContext)
         {
