@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PaKoL8r53ns=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tolu\\Documents\\GitHub\\RestaurantsApi\\Restaurants\\Restaurants.Api\\Restaurants.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tolu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Tolu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Tolu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
