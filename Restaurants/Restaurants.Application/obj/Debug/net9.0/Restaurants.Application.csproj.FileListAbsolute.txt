@@ -1,0 +1,16 @@
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\bin\Debug\net9.0\Restaurants.Application.deps.json
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\bin\Debug\net9.0\Restaurants.Application.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\bin\Debug\net9.0\Restaurants.Application.pdb
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\bin\Debug\net9.0\Restaurants.Domain.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\bin\Debug\net9.0\Restaurants.Domain.pdb
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.csproj.AssemblyReference.cache
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.AssemblyInfoInputs.cache
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.AssemblyInfo.cs
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.sourcelink.json
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaura.6AB96A7C.Up2Date
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\refint\Restaurants.Application.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\Restaurants.Application.pdb
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Application\obj\Debug\net9.0\ref\Restaurants.Application.dll
