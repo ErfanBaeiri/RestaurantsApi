@@ -174,3 +174,8 @@ C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\De
 C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\Restaurants.Infrastructure.dll
 C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\Restaurants.Infrastructure.pdb
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Tolu\Documents\GitHub\RestaurantsApi\Restaurants\Restaurants.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll

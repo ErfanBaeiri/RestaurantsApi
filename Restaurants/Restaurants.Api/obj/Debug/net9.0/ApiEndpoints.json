@@ -1,23 +1,44 @@
 [
   {
-    "ContainingType": "Restaurants.Api.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "Restaurants.Api.Controllers.RestaurantsController",
+    "Method": "GetAll",
+    "RelativePath": "api/restaurants",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurants.Api.Controllers.RestaurantsController",
+    "Method": "CreateRestaurant",
+    "RelativePath": "api/restaurants",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Restaurants.Api.WeatherForecast, Restaurants.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "createRestaurantDto",
+        "Type": "Restaurants.Application.Restaurants.Dtos.CreateRestaurantDto",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurants.Api.Controllers.RestaurantsController",
+    "Method": "GetById",
+    "RelativePath": "api/restaurants/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

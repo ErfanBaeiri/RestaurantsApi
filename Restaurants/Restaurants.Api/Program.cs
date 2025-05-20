@@ -1,6 +1,7 @@
-using Microsoft.Data.SqlClient;
+using Restaurants.Application.Extensions;
 using Restaurants.Infrastructure.Extensions;
 using Restaurants.Infrastructure.Seeders;
+
 var builder = WebApplication.CreateBuilder(args);
 
 #region Services
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 #region Register Dependency
+builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 #endregion
 
